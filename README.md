@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @umani0
+- 👀 I’m interested in creating telegram bots and want to try to become a gamedev
+- 🌱 I’m currently learning C++ and Python
